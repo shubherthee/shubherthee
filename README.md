@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shubherthee Esha</h1>
+<h1 align="center">Hi,  I'm Shubherthee Esha</h1>
 <h3 align="center">studying software engineering at UTM (Year 1 SECJH)</h3>
 
 - 📫 How to reach me **shubherthee@graduate.utm.my**
